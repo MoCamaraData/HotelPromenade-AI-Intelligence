@@ -1,0 +1,34 @@
+name: hotel-ai
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - jupyterlab
+  - pandas
+  - scipy
+  - numpy
+  - scikit-learn
+  - pytorch::pytorch
+  - pytorch::torchvision
+  - pytorch::torchaudio
+  - pytorch::pytorch-cuda=11.8
+  - pip:
+    - fastapi
+    - uvicorn
+    - transformers
+    - langchain
+    - openai
+    - faiss-cpu
+    - nltk
+    - spacy
+    - python-dotenv
+    - requests
+    - pytest
+    - black
+    - flake8
+    - plotly
+    - seaborn
+    - streamlit
