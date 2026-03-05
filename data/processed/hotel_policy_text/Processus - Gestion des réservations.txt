@@ -1,0 +1,28 @@
+Processus Gestion des réservations (défaillant) :
+Client Réceptioniste
+Demande de
+réservation (Tél,
+email, Site)
+Collecte
+d information
+Remplir formulaire
+Non
+Informations
+complètes
+Oui
+Vérification de la
+disponibilité
+Planning consulté manuellement
+Disponibilité Mettre fin à la
+Non
+confirmée demande
+Oui
+Promesse verbale
+au client
+Prise de note temporaire sur un bout de papier
+Saisie dans le
+système différée
+Aucune
+confirmation
+envoyée au client
+Fin du processus

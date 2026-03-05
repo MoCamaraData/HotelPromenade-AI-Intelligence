@@ -53,11 +53,11 @@ venv.bak/
 *.ipynb_checkpoints
 
 # Data
-data/raw/
-data/processed/
-*.csv
-*.tsv
-*.xlsx
+# data/raw/
+# data/processed/
+# *.csv
+# *.tsv
+# *.xlsx
 
 # Models
 *.pkl

@@ -1,0 +1,385 @@
+[
+  {
+    "id": "Q1",
+    "question": "À quelle heure puis-je m'enregistrer à l'hôtel ?",
+    "answer_raw": "Bienvenue à l'Hôtel De la Promenade ! Notre enregistrement standard débute à 15h00, moment où votre refuge urbain vous attend, fraîchement préparé. Vous arrivez plus tôt et souhaitez déposer vos valises ? Nous vous accueillons dès midi avec notre service d'enregistrement anticipé moyennant des frais modestes de 35 $. Toutefois, si vous êtes membre de notre cercle privilégié Promenade Or, cette courtoisie vous est offerte gracieusement, selon les disponibilités du jour. Notre réception, ouverte 24 heures sur 24, veille à ce que chaque arrivée soit aussi douce qu'une promenade au bord du canal.",
+    "facts": [
+      "Bienvenue à l'Hôtel De la Promenade !",
+      "Notre enregistrement standard débute à 15h00, moment où votre refuge urbain vous attend, fraîchement préparé.",
+      "Vous arrivez plus tôt et souhaitez déposer vos valises ?",
+      "Nous vous accueillons dès midi avec notre service d'enregistrement anticipé moyennant des frais modestes de 35 $.",
+      "Toutefois, si vous êtes membre de notre cercle privilégié Promenade Or, cette courtoisie vous est offerte gracieusement, selon les disponibilités du jour.",
+      "Notre réception, ouverte 24 heures sur 24, veille à ce que chaque arrivée soit aussi douce qu'une promenade au bord du canal."
+    ],
+    "cleaned_answer": "Bien sûr. Bienvenue à l'Hôtel De la Promenade ! Notre enregistrement standard débute à 15h00, moment où votre refuge urbain vous attend, fraîchement préparé. Vous arrivez plus tôt et souhaitez déposer vos valises ? Nous vous accueillons dès midi avec notre service d'enregistrement anticipé moyennant des frais modestes de 35 $."
+  },
+  {
+    "id": "Q2",
+    "question": "Puis-je amener mon chien à l'hôtel ?",
+    "answer_raw": "Mais certainement ! Chez nous, les compagnons à quatre pattes font partie de la famille. Nous accueillons vos fidèles amis moyennant des frais de nettoyage non remboursables de 50 $ par séjour, ou bien 35 $ par nuitée selon le forfait choisi. Un dépôt remboursable de 150 $ sera également demandé pour couvrir d'éventuels dommages. Notez que nos espaces de détente, le Bistro et le Spa L'Oasis Urbaine, demeurent réservés aux humains, à l'exception bien entendue des chiens d'assistance qui sont toujours les bienvenus sans frais ni formalités. Dans les aires communes, une petite laisse suffira à assurer l'harmonie de tous.",
+    "facts": [
+      "Chez nous, les compagnons à quatre pattes font partie de la famille.",
+      "Nous accueillons vos fidèles amis moyennant des frais de nettoyage non remboursables de 50 $ par séjour, ou bien 35 $ par nuitée selon le forfait choisi.",
+      "Un dépôt remboursable de 150 $ sera également demandé pour couvrir d'éventuels dommages.",
+      "Notez que nos espaces de détente, le Bistro et le Spa L'Oasis Urbaine, demeurent réservés aux humains, à l'exception bien entendue des chiens d'assistance qui sont toujours les bienvenus sans frais ni formalités.",
+      "Dans les aires communes, une petite laisse suffira à assurer l'harmonie de tous."
+    ],
+    "cleaned_answer": "Nous sommes ravis de vous répondre. Chez nous, les compagnons à quatre pattes font partie de la famille. Nous accueillons vos fidèles amis moyennant des frais de nettoyage non remboursables de 50 $ par séjour, ou bien 35 $ par nuitée selon le forfait choisi. Un dépôt remboursable de 150 $ sera également demandé pour couvrir d'éventuels dommages. Notez que nos espaces de détente, le Bistro et le Spa L'Oasis Urbaine, demeurent réservés aux humains, à l'exception bien entendue des chiens d'assistance qui sont toujours les bienvenus sans frais ni formalités."
+  },
+  {
+    "id": "Q3",
+    "question": "Est-ce que votre hôtel offre le Wi-Fi gratuit ?",
+    "answer_raw": "Absolument ! Dans notre établissement, la connexion au monde numérique est aussi naturelle que respirer l'air frais d'Ottawa. Toutes nos chambres, de la Classique à l'Exécutive, bénéficient d'un accès Wi-Fi haute vitesse sans frais supplémentaires. Parce qu'un séjour raffiné, c'est aussi rester relié à ce qui compte, que ce soit pour le travail ou le plaisir.",
+    "facts": [
+      "Dans notre établissement, la connexion au monde numérique est aussi naturelle que respirer l'air frais d'Ottawa.",
+      "Toutes nos chambres, de la Classique à l'Exécutive, bénéficient d'un accès Wi-Fi haute vitesse sans frais supplémentaires.",
+      "Parce qu'un séjour raffiné, c'est aussi rester relié à ce qui compte, que ce soit pour le travail ou le plaisir."
+    ],
+    "cleaned_answer": "Merci pour votre question. Dans notre établissement, la connexion au monde numérique est aussi naturelle que respirer l'air frais d'Ottawa. Toutes nos chambres, de la Classique à l'Exécutive, bénéficient d'un accès Wi-Fi haute vitesse sans frais supplémentaires. Parce qu'un séjour raffiné, c'est aussi rester relié à ce qui compte, que ce soit pour le travail ou le plaisir."
+  },
+  {
+    "id": "Q4",
+    "question": "Quelles sont vos politiques d'annulation ?",
+    "answer_raw": "Nous comprenons que les plans peuvent évoluer comme les saisons. Pour nos tarifs flexibles, vous pouvez annuler sans pénalité jusqu'à 24 heures avant 15h00 le jour de votre arrivée prévue, une liberté que nous chérissons autant que vous. En revanche, nos tarifs prépayés non remboursables, comme leur nom l'indique avec élégance, ne permettent aucune modification une fois la réservation confirmée. Nos forfaits spéciaux (Romantique, Famille) requièrent un préavis de 48 heures, sauf indication contraire précisée lors de votre réservation. Et si le destin vous empêche de nous rejoindre sans préavis, nous facturerons avec regret la première nuit, taxes comprises. Notre réception demeure à votre écoute pour toute question à ce sujet.",
+    "facts": [
+      "Pour nos tarifs flexibles, vous pouvez annuler sans pénalité jusqu'à 24 heures avant 15h00 le jour de votre arrivée prévue, une liberté que nous chérissons autant que vous.",
+      "En revanche, nos tarifs prépayés non remboursables, comme leur nom l'indique avec élégance, ne permettent aucune modification une fois la réservation confirmée.",
+      "Nos forfaits spéciaux (Romantique, Famille) requièrent un préavis de 48 heures, sauf indication contraire précisée lors de votre réservation.",
+      "Et si le destin vous empêche de nous rejoindre sans préavis, nous facturerons avec regret la première nuit, taxes comprises.",
+      "Notre réception demeure à votre écoute pour toute question à ce sujet."
+    ],
+    "cleaned_answer": "Avec plaisir. Pour nos tarifs flexibles, vous pouvez annuler sans pénalité jusqu'à 24 heures avant 15h00 le jour de votre arrivée prévue, une liberté que nous chérissons autant que vous. En revanche, nos tarifs prépayés non remboursables, comme leur nom l'indique avec élégance, ne permettent aucune modification une fois la réservation confirmée. Nos forfaits spéciaux (Romantique, Famille) requièrent un préavis de 48 heures, sauf indication contraire précisée lors de votre réservation. Et si le destin vous empêche de nous rejoindre sans préavis, nous facturerons avec regret la première nuit, taxes comprises."
+  },
+  {
+    "id": "Q5",
+    "question": "Le petit-déjeuner est-il inclus dans le prix de la chambre ?",
+    "answer_raw": "L'inclusion du petit-déjeuner dépend du forfait que vous avez sélectionné lors de votre réservation. Notre forfait « Couette et Café », par exemple, comprend un délicieux déjeuner santé au Bistro De la Promenade, une façon exquise de commencer la journée. Si votre réservation ne comporte pas cette prestation, pas d'inquiétude ! Notre Bistro vous accueille tous les matins de 6h30 à 11h00 en semaine, et dès 7h00 la fin de semaine, avec des créations artisanales qui raviront vos papilles. Du croissant au beurre façonné maison (4 $) à notre assiette de fruits frais de saison (14 $), chaque bouchée célèbre les saveurs locales et l'art de bien commencer la journée.",
+    "facts": [
+      "L'inclusion du petit-déjeuner dépend du forfait que vous avez sélectionné lors de votre réservation.",
+      "Notre forfait « Couette et Café », par exemple, comprend un délicieux déjeuner santé au Bistro De la Promenade, une façon exquise de commencer la journée.",
+      "Si votre réservation ne comporte pas cette prestation, pas d'inquiétude !",
+      "Notre Bistro vous accueille tous les matins de 6h30 à 11h00 en semaine, et dès 7h00 la fin de semaine, avec des créations artisanales qui raviront vos papilles.",
+      "Du croissant au beurre façonné maison (4 $) à notre assiette de fruits frais de saison (14 $), chaque bouchée célèbre les saveurs locales et l'art de bien commencer la journée."
+    ],
+    "cleaned_answer": "Bien sûr. L'inclusion du petit-déjeuner dépend du forfait que vous avez sélectionné lors de votre réservation. Notre forfait « Couette et Café », par exemple, comprend un délicieux déjeuner santé au Bistro De la Promenade, une façon exquise de commencer la journée. Si votre réservation ne comporte pas cette prestation, pas d'inquiétude ! Notre Bistro vous accueille tous les matins de 6h30 à 11h00 en semaine, et dès 7h00 la fin de semaine, avec des créations artisanales qui raviront vos papilles."
+  },
+  {
+    "id": "Q6",
+    "question": "À quelle heure dois-je libérer ma chambre ?",
+    "answer_raw": "Le départ standard s'effectue à 11h00, heure à laquelle votre chambre retrouve son éclat pour accueillir les prochains visiteurs. Vous souhaitez prolonger votre séjour jusqu'à 14h00 ? Nous proposons un départ tardif moyennant 50 $, vous offrant ainsi quelques heures supplémentaires de tranquillité. Au-delà de cette heure, le tarif d'une nuitée complète s'appliquera. Comme toujours, notre équipe à la réception se fera un plaisir d'accommoder vos besoins dans la mesure du possible.",
+    "facts": [
+      "Le départ standard s'effectue à 11h00, heure à laquelle votre chambre retrouve son éclat pour accueillir les prochains visiteurs.",
+      "Vous souhaitez prolonger votre séjour jusqu'à 14h00 ?",
+      "Nous proposons un départ tardif moyennant 50 $, vous offrant ainsi quelques heures supplémentaires de tranquillité.",
+      "Au-delà de cette heure, le tarif d'une nuitée complète s'appliquera.",
+      "Comme toujours, notre équipe à la réception se fera un plaisir d'accommoder vos besoins dans la mesure du possible."
+    ],
+    "cleaned_answer": "Nous sommes ravis de vous répondre. Le départ standard s'effectue à 11h00, heure à laquelle votre chambre retrouve son éclat pour accueillir les prochains visiteurs. Vous souhaitez prolonger votre séjour jusqu'à 14h00 ? Nous proposons un départ tardif moyennant 50 $, vous offrant ainsi quelques heures supplémentaires de tranquillité. Au-delà de cette heure, le tarif d'une nuitée complète s'appliquera."
+  },
+  {
+    "id": "Q7",
+    "question": "Offrez-vous un service de stationnement ?",
+    "answer_raw": "Certainement ! Nous proposons deux formules pour votre véhicule. Notre service de voiturier attentionné, au tarif de 38 $ par nuit, vous permet des entrées et sorties illimitées, une danse parfaite entre liberté et commodité. Si vous préférez stationner vous-même, notre stationnement souterrain sécurisé est disponible à 28 $ la nuit (veuillez noter que la hauteur maximale est de 2, 1 mètres). Et pour nos visiteurs soucieux de l'environnement, des bornes de recharge pour véhicules électriques vous attendent gratuitement aux niveaux P1 et P2, selon la disponibilité. Parce qu'un avenir durable commence dans notre garage.",
+    "facts": [
+      "Nous proposons deux formules pour votre véhicule.",
+      "Notre service de voiturier attentionné, au tarif de 38 $ par nuit, vous permet des entrées et sorties illimitées, une danse parfaite entre liberté et commodité.",
+      "Si vous préférez stationner vous-même, notre stationnement souterrain sécurisé est disponible à 28 $ la nuit (veuillez noter que la hauteur maximale est de 2, 1 mètres).",
+      "Et pour nos visiteurs soucieux de l'environnement, des bornes de recharge pour véhicules électriques vous attendent gratuitement aux niveaux P1 et P2, selon la disponibilité."
+    ],
+    "cleaned_answer": "Merci pour votre question. Nous proposons deux formules pour votre véhicule. Notre service de voiturier attentionné, au tarif de 38 $ par nuit, vous permet des entrées et sorties illimitées, une danse parfaite entre liberté et commodité. Si vous préférez stationner vous-même, notre stationnement souterrain sécurisé est disponible à 28 $ la nuit (veuillez noter que la hauteur maximale est de 2, 1 mètres). Et pour nos visiteurs soucieux de l'environnement, des bornes de recharge pour véhicules électriques vous attendent gratuitement aux niveaux P1 et P2, selon la disponibilité."
+  },
+  {
+    "id": "Q8",
+    "question": "Avez-vous un restaurant sur place ?",
+    "answer_raw": "Mais oui, et quel restaurant ! Le Bistro De la Promenade est notre joyau culinaire, un café-bistro artisanal où les cafés de spécialité rencontrent les produits locaux dans une symphonie de saveurs. Nos baristas, formés selon les standards internationaux, vous accueillent du lundi au vendredi de 6h30 à 22h00, et les fins de semaine de 7h00 à 23h00. Le petit-déjeuner se déploie jusqu'à 11h00, le lunch de 11h30 à 14h00, et le souper de 17h00 à 22h00. La fin de semaine, notre brunch légendaire s'étend de 8h00 à 14h00, un moment de pure gourmandise. L'ambiance ? Décontractée le jour, feutrée en soirée. Du sandwich Déjeuner (12 $) au Burger De la Promenade avec son confit d'oignon (18 $), chaque plat raconte une histoire de terroir et de passion. Et si vous préférez savourer tout cela dans l'intimité de votre chambre, notre service aux chambres est disponible aux mêmes heures, moyennant des frais de livraison de 5 $ (gratuits pour nos suites Exécutives).",
+    "facts": [
+      "Mais oui, et quel restaurant !",
+      "Le Bistro De la Promenade est notre joyau culinaire, un café-bistro artisanal où les cafés de spécialité rencontrent les produits locaux dans une symphonie de saveurs.",
+      "Nos baristas, formés selon les standards internationaux, vous accueillent du lundi au vendredi de 6h30 à 22h00, et les fins de semaine de 7h00 à 23h00.",
+      "Le petit-déjeuner se déploie jusqu'à 11h00, le lunch de 11h30 à 14h00, et le souper de 17h00 à 22h00.",
+      "La fin de semaine, notre brunch légendaire s'étend de 8h00 à 14h00, un moment de pure gourmandise.",
+      "Du sandwich Déjeuner (12 $) au Burger De la Promenade avec son confit d'oignon (18 $), chaque plat raconte une histoire de terroir et de passion.",
+      "Et si vous préférez savourer tout cela dans l'intimité de votre chambre, notre service aux chambres est disponible aux mêmes heures, moyennant des frais de livraison de 5 $ (gratuits pour nos suites Exécutives)."
+    ],
+    "cleaned_answer": "Avec plaisir. Mais oui, et quel restaurant ! Le Bistro De la Promenade est notre joyau culinaire, un café-bistro artisanal où les cafés de spécialité rencontrent les produits locaux dans une symphonie de saveurs. Nos baristas, formés selon les standards internationaux, vous accueillent du lundi au vendredi de 6h30 à 22h00, et les fins de semaine de 7h00 à 23h00. Le petit-déjeuner se déploie jusqu'à 11h00, le lunch de 11h30 à 14h00, et le souper de 17h00 à 22h00."
+  },
+  {
+    "id": "Q9",
+    "question": "Acceptez-vous les animaux d'assistance ?",
+    "answer_raw": "Sans la moindre hésitation ! Les animaux d'assistance sont accueillis chaleureusement et sans aucun frais à l'Hôtel De la Promenade. Aucune identification n'est requise si votre compagnon est clairement reconnaissable comme animal d'assistance. Ces fidèles alliés peuvent vous accompagner partout dans l'hôtel, y compris au Bistro et au Spa L'Oasis Urbaine. Leur présence à vos côtés est un droit que nous respectons avec la plus grande dignité.",
+    "facts": [
+      "Sans la moindre hésitation !",
+      "Les animaux d'assistance sont accueillis chaleureusement et sans aucun frais à l'Hôtel De la Promenade.",
+      "Aucune identification n'est requise si votre compagnon est clairement reconnaissable comme animal d'assistance.",
+      "Ces fidèles alliés peuvent vous accompagner partout dans l'hôtel, y compris au Bistro et au Spa L'Oasis Urbaine.",
+      "Leur présence à vos côtés est un droit que nous respectons avec la plus grande dignité."
+    ],
+    "cleaned_answer": "Bien sûr. Sans la moindre hésitation ! Les animaux d'assistance sont accueillis chaleureusement et sans aucun frais à l'Hôtel De la Promenade. Aucune identification n'est requise si votre compagnon est clairement reconnaissable comme animal d'assistance. Ces fidèles alliés peuvent vous accompagner partout dans l'hôtel, y compris au Bistro et au Spa L'Oasis Urbaine."
+  },
+  {
+    "id": "Q10",
+    "question": "Puis-je fumer dans ma chambre ?",
+    "answer_raw": "Hélas, non. Pour le bien-être de tous nos visiteurs et la pureté de l'air que nous partageons, toute forme de fumée, tabac ou cannabis, est strictement interdite à l'intérieur de l'établissement. Des espaces fumeurs extérieurs désignés vous attendent toutefois pour ces moments de pause. En cas de violation de cette politique, des frais de nettoyage de 250 $ seront facturés, auxquels s'ajouteront les coûts réels si nécessaires. Nous comptons sur votre compréhension pour préserver l'atmosphère raffinée de notre hôtel.",
+    "facts": [
+      "Hélas, non.",
+      "Pour le bien-être de tous nos visiteurs et la pureté de l'air que nous partageons, toute forme de fumée, tabac ou cannabis, est strictement interdite à l'intérieur de l'établissement.",
+      "En cas de violation de cette politique, des frais de nettoyage de 250 $ seront facturés, auxquels s'ajouteront les coûts réels si nécessaires.",
+      "Nous comptons sur votre compréhension pour préserver l'atmosphère raffinée de notre hôtel."
+    ],
+    "cleaned_answer": "Bien sûr. Hélas, non. Pour le bien-être de tous nos visiteurs et la pureté de l'air que nous partageons, toute forme de fumée, tabac ou cannabis, est strictement interdite à l'intérieur de l'établissement. En cas de violation de cette politique, des frais de nettoyage de 250 $ seront facturés, auxquels s'ajouteront les coûts réels si nécessaires. Nous comptons sur votre compréhension pour préserver l'atmosphère raffinée de notre hôtel."
+  },
+  {
+    "id": "Q11",
+    "question": "Offrez-vous des forfaits spéciaux pour les couples ?",
+    "answer_raw": "Ah, l'amour ! Notre forfait « Week-end Romantique » (code AMOUR) est conçu précisément pour ces moments où deux cœurs ne font qu'un. Au prix fixe de 1 200 $ (plus taxes), ce forfait vous offre un hébergement en Suite Junior, une bouteille de bulles accompagnée de chocolats fins déposée avant votre arrivée, et un repas gastronomique pour deux personnes, un menu dégustation qui éveillera tous vos sens. Notre conciergerie se fera également un plaisir de vous suggérer des activités intimes : excursions en bateau sur le canal, visites privées de musées, tours guidés des quartiers historiques d'Ottawa. Parce que chaque grande histoire d'amour mérite un décor à sa hauteur.",
+    "facts": [
+      "Ah, l'amour !",
+      "Notre forfait « Week-end Romantique » (code AMOUR) est conçu précisément pour ces moments où deux cœurs ne font qu'un.",
+      "Au prix fixe de 1 200 $ (plus taxes), ce forfait vous offre un hébergement en Suite Junior, une bouteille de bulles accompagnée de chocolats fins déposée avant votre arrivée, et un repas gastronomique pour deux personnes, un menu dégustation qui éveillera tous vos sens.",
+      "Notre conciergerie se fera également un plaisir de vous suggérer des activités intimes : excursions en bateau sur le canal, visites privées de musées, tours guidés des quartiers historiques d'Ottawa.",
+      "Parce que chaque grande histoire d'amour mérite un décor à sa hauteur."
+    ],
+    "cleaned_answer": "Nous sommes ravis de vous répondre. Ah, l'amour ! Notre forfait « Week-end Romantique » (code AMOUR) est conçu précisément pour ces moments où deux cœurs ne font qu'un. Au prix fixe de 1 200 $ (plus taxes), ce forfait vous offre un hébergement en Suite Junior, une bouteille de bulles accompagnée de chocolats fins déposée avant votre arrivée, et un repas gastronomique pour deux personnes, un menu dégustation qui éveillera tous vos sens. Notre conciergerie se fera également un plaisir de vous suggérer des activités intimes : excursions en bateau sur le canal, visites privées de musées, tours guidés des quartiers historiques d'Ottawa."
+  },
+  {
+    "id": "Q12",
+    "question": "Avez-vous un spa dans l'hôtel ?",
+    "answer_raw": "Oui, et pas n'importe quel spa ! L'Oasis Urbaine, situé au deuxième étage, est notre sanctuaire dédié à la détente et au renouveau. Ouvert du mardi au dimanche de 10h00 à 20h00 (fermé le lundi pour entretien), ce havre de paix propose des massages suédois (135 $ pour 60 minutes), des massages thérapeutiques (190 $ pour 90 minutes), et des soins du visage Éclat (150 $ pour 60 minutes). L'accès à nos bains thermaux coûte 45 $, mais il vous est offert gracieusement si vous réservez un soin d'une heure ou plus. Veuillez noter que l'âge minimum est de 16 ans (13-15 ans avec un parent ou tuteur et formulaire signé). Nous vous recommandons d'arriver 10 à 15 minutes avant votre rendez-vous pour vous immerger pleinement dans l'expérience. Les annulations doivent être effectuées 24 heures à l'avance pour éviter des frais.",
+    "facts": [
+      "Oui, et pas n'importe quel spa !",
+      "L'Oasis Urbaine, situé au deuxième étage, est notre sanctuaire dédié à la détente et au renouveau.",
+      "Ouvert du mardi au dimanche de 10h00 à 20h00 (fermé le lundi pour entretien), ce havre de paix propose des massages suédois (135 $ pour 60 minutes), des massages thérapeutiques (190 $ pour 90 minutes), et des soins du visage Éclat (150 $ pour 60 minutes).",
+      "L'accès à nos bains thermaux coûte 45 $, mais il vous est offert gracieusement si vous réservez un soin d'une heure ou plus.",
+      "Veuillez noter que l'âge minimum est de 16 ans (13-15 ans avec un parent ou tuteur et formulaire signé).",
+      "Nous vous recommandons d'arriver 10 à 15 minutes avant votre rendez-vous pour vous immerger pleinement dans l'expérience.",
+      "Les annulations doivent être effectuées 24 heures à l'avance pour éviter des frais."
+    ],
+    "cleaned_answer": "Merci pour votre question. Oui, et pas n'importe quel spa ! L'Oasis Urbaine, situé au deuxième étage, est notre sanctuaire dédié à la détente et au renouveau. Ouvert du mardi au dimanche de 10h00 à 20h00 (fermé le lundi pour entretien), ce havre de paix propose des massages suédois (135 $ pour 60 minutes), des massages thérapeutiques (190 $ pour 90 minutes), et des soins du visage Éclat (150 $ pour 60 minutes). L'accès à nos bains thermaux coûte 45 $, mais il vous est offert gracieusement si vous réservez un soin d'une heure ou plus."
+  },
+  {
+    "id": "Q13",
+    "question": "Proposez-vous des salles pour réunions ou événements ?",
+    "answer_raw": "Absolument ! Notre Centre d'affaires et nos espaces événementiels sont pensés pour transformer vos rencontres professionnelles en succès mémorables. La Salle Bourgeois accueille jusqu'à 12 personnes autour d'une table ovale (400 $ la demi-journée), idéale pour ces réunions de direction où chaque voix compte. La Salle Racine peut contenir 40 personnes en configuration école ou 60 en théâtre (850 $ la journée), parfaite pour formations et présentations. Et pour vos grands événements, la Salle Poirier peut accueillir jusqu'à 200 personnes (2 500 $ la journée), banquets, congrès, célébrations. Projecteur, écran, microphone et sonorisation de base sont inclus. Pour des besoins techniques particuliers, nous demandons un préavis de 7 jours. Notre équipe Congrès & Événements vous accompagne à chaque étape.",
+    "facts": [
+      "Notre Centre d'affaires et nos espaces événementiels sont pensés pour transformer vos rencontres professionnelles en succès mémorables.",
+      "La Salle Bourgeois accueille jusqu'à 12 personnes autour d'une table ovale (400 $ la demi-journée), idéale pour ces réunions de direction où chaque voix compte.",
+      "La Salle Racine peut contenir 40 personnes en configuration école ou 60 en théâtre (850 $ la journée), parfaite pour formations et présentations.",
+      "Et pour vos grands événements, la Salle Poirier peut accueillir jusqu'à 200 personnes (2 500 $ la journée), banquets, congrès, célébrations.",
+      "Projecteur, écran, microphone et sonorisation de base sont inclus.",
+      "Pour des besoins techniques particuliers, nous demandons un préavis de 7 jours.",
+      "Notre équipe Congrès & Événements vous accompagne à chaque étape."
+    ],
+    "cleaned_answer": "Avec plaisir. Notre Centre d'affaires et nos espaces événementiels sont pensés pour transformer vos rencontres professionnelles en succès mémorables. La Salle Bourgeois accueille jusqu'à 12 personnes autour d'une table ovale (400 $ la demi-journée), idéale pour ces réunions de direction où chaque voix compte. La Salle Racine peut contenir 40 personnes en configuration école ou 60 en théâtre (850 $ la journée), parfaite pour formations et présentations. Et pour vos grands événements, la Salle Poirier peut accueillir jusqu'à 200 personnes (2 500 $ la journée), banquets, congrès, célébrations."
+  },
+  {
+    "id": "Q14",
+    "question": "Quelle est votre politique concernant le bruit et les heures calmes ?",
+    "answer_raw": "Le repos de nos visiteurs est sacré. Nous demandons donc à chacun de respecter les heures calmes, de 22h00 à 7h00, période durant laquelle le silence devient notre plus belle mélodie. Tout comportement perturbateur ou non-respect de cette politique peut entraîner des amendes, voire une expulsion sans remboursement. Car ici, chaque nuit mérite d'être paisible comme une promenade sous les étoiles.",
+    "facts": [
+      "Le repos de nos visiteurs est sacré.",
+      "Nous demandons donc à chacun de respecter les heures calmes, de 22h00 à 7h00, période durant laquelle le silence devient notre plus belle mélodie.",
+      "Tout comportement perturbateur ou non-respect de cette politique peut entraîner des amendes, voire une expulsion sans remboursement.",
+      "Car ici, chaque nuit mérite d'être paisible comme une promenade sous les étoiles."
+    ],
+    "cleaned_answer": "Bien sûr. Le repos de nos visiteurs est sacré. Nous demandons donc à chacun de respecter les heures calmes, de 22h00 à 7h00, période durant laquelle le silence devient notre plus belle mélodie. Tout comportement perturbateur ou non-respect de cette politique peut entraîner des amendes, voire une expulsion sans remboursement. Car ici, chaque nuit mérite d'être paisible comme une promenade sous les étoiles."
+  },
+  {
+    "id": "Q15",
+    "question": "Puis-je apporter ma propre bouteille de vin au restaurant ?",
+    "answer_raw": "Mais bien sûr ! Notre politique de droit de bouchon vous permet d'apporter votre propre bouteille de vin au Bistro De la Promenade. Des frais de débouchonnage de 25 $ par bouteille de 750 ml s'appliquent, avec un maximum d'une bouteille par table. Petite précision élégante : le vin que vous apportez ne doit pas figurer sur notre carte actuelle. Parce que partager un bon vin, c'est aussi partager un moment d'authenticité.",
+    "facts": [
+      "Notre politique de droit de bouchon vous permet d'apporter votre propre bouteille de vin au Bistro De la Promenade.",
+      "Des frais de débouchonnage de 25 $ par bouteille de 750 ml s'appliquent, avec un maximum d'une bouteille par table.",
+      "Petite précision élégante : le vin que vous apportez ne doit pas figurer sur notre carte actuelle.",
+      "Parce que partager un bon vin, c'est aussi partager un moment d'authenticité."
+    ],
+    "cleaned_answer": "Nous sommes ravis de vous répondre. Notre politique de droit de bouchon vous permet d'apporter votre propre bouteille de vin au Bistro De la Promenade. Des frais de débouchonnage de 25 $ par bouteille de 750 ml s'appliquent, avec un maximum d'une bouteille par table. Petite précision élégante : le vin que vous apportez ne doit pas figurer sur notre carte actuelle. Parce que partager un bon vin, c'est aussi partager un moment d'authenticité."
+  },
+  {
+    "id": "Q16",
+    "question": "Avez-vous des options pour les personnes ayant des restrictions alimentaires ?",
+    "answer_raw": "Naturellement ! Au Bistro De la Promenade, nous honorons chaque régime avec la même attention. Options végétariennes (VG), végétaliennes (VGL), sans gluten (SG) et sans lactose sont disponibles sur simple demande. Toutefois, et ceci est crucial, nous vous prions d'informer votre serveur de toute allergie alimentaire avant de commander. Bien que notre cuisine applique un protocole anti-contamination rigoureux, nous manipulons des noix, fruits de mer et blé. Votre sécurité est notre priorité, mais elle commence par votre communication. L'hôtel ne peut être tenu responsable en cas de réaction si l'allergie n'a pas été déclarée au préalable.",
+    "facts": [
+      "Au Bistro De la Promenade, nous honorons chaque régime avec la même attention.",
+      "Options végétariennes (VG), végétaliennes (VGL), sans gluten (SG) et sans lactose sont disponibles sur simple demande.",
+      "Toutefois, et ceci est crucial, nous vous prions d'informer votre serveur de toute allergie alimentaire avant de commander.",
+      "Bien que notre cuisine applique un protocole anti-contamination rigoureux, nous manipulons des noix, fruits de mer et blé.",
+      "Votre sécurité est notre priorité, mais elle commence par votre communication.",
+      "L'hôtel ne peut être tenu responsable en cas de réaction si l'allergie n'a pas été déclarée au préalable."
+    ],
+    "cleaned_answer": "Merci pour votre question. Au Bistro De la Promenade, nous honorons chaque régime avec la même attention. Options végétariennes (VG), végétaliennes (VGL), sans gluten (SG) et sans lactose sont disponibles sur simple demande. Toutefois, et ceci est crucial, nous vous prions d'informer votre serveur de toute allergie alimentaire avant de commander. Bien que notre cuisine applique un protocole anti-contamination rigoureux, nous manipulons des noix, fruits de mer et blé."
+  },
+  {
+    "id": "Q17",
+    "question": "Offrez-vous un service de navette vers l'aéroport ?",
+    "answer_raw": "Oui, nous offrons un service de navette vers l'aéroport sur réservation. Les horaires varient selon la demande, c'est pourquoi nous vous recommandons de réserver à l'avance auprès de notre conciergerie (extension 500). Parce qu'un voyage réussi commence et se termine sans tracas, nous veillons à ce que votre trajet soit aussi fluide que votre séjour.",
+    "facts": [
+      "Les horaires varient selon la demande, c'est pourquoi nous vous recommandons de réserver à l'avance auprès de notre conciergerie (extension 500).",
+      "Parce qu'un voyage réussi commence et se termine sans tracas, nous veillons à ce que votre trajet soit aussi fluide que votre séjour."
+    ],
+    "cleaned_answer": "Avec plaisir. Les horaires varient selon la demande, c'est pourquoi nous vous recommandons de réserver à l'avance auprès de notre conciergerie (extension 500). Parce qu'un voyage réussi commence et se termine sans tracas, nous veillons à ce que votre trajet soit aussi fluide que votre séjour."
+  },
+  {
+    "id": "Q18",
+    "question": "Y a-t-il un centre de conditionnement physique dans l'hôtel ?",
+    "answer_raw": "Tout à fait ! Notre centre de remise en forme est inclus dans votre séjour et accessible à tous nos clients. L'équipement moderne vous attend pour maintenir votre routine d'entraînement, même loin de chez vous. Parce qu'un corps en mouvement et un esprit apaisé vont de pair. Les détails d'accès vous seront communiqués à la réception lors de votre enregistrement.",
+    "facts": [
+      "Notre centre de remise en forme est inclus dans votre séjour et accessible à tous nos clients.",
+      "L'équipement moderne vous attend pour maintenir votre routine d'entraînement, même loin de chez vous.",
+      "Les détails d'accès vous seront communiqués à la réception lors de votre enregistrement."
+    ],
+    "cleaned_answer": "Bien sûr. Notre centre de remise en forme est inclus dans votre séjour et accessible à tous nos clients. L'équipement moderne vous attend pour maintenir votre routine d'entraînement, même loin de chez vous. Les détails d'accès vous seront communiqués à la réception lors de votre enregistrement."
+  },
+  {
+    "id": "Q19",
+    "question": "Proposez-vous des forfaits respectueux de l'environnement ?",
+    "answer_raw": "Ah, voilà une question qui nous tient à cœur ! Notre forfait « Vélo-route Verte » (code ECO-VERT) incarne notre engagement envers la durabilité. Ce forfait comprend l'utilisation exclusive de produits de nettoyage écologiques, des draps en fibres naturelles, et une gestion responsable du linge (changement des serviettes uniquement sur demande). Nos chambres sont équipées d'ampoules à faible consommation et de systèmes de climatisation écoénergétiques. Au petit-déjeuner, vous savourerez des produits locaux et de saison dans des contenants réutilisables ou compostables, zéro plastique à usage unique. Et cerise sur le gâteau vert : accès prioritaire à notre flotte de vélos pour explorer Ottawa de manière douce et silencieuse. Parce que chaque petit geste compte pour préserver la beauté de notre planète.",
+    "facts": [
+      "Ah, voilà une question qui nous tient à cœur !",
+      "Notre forfait « Vélo-route Verte » (code ECO-VERT) incarne notre engagement envers la durabilité.",
+      "Ce forfait comprend l'utilisation exclusive de produits de nettoyage écologiques, des draps en fibres naturelles, et une gestion responsable du linge (changement des serviettes uniquement sur demande).",
+      "Nos chambres sont équipées d'ampoules à faible consommation et de systèmes de climatisation écoénergétiques.",
+      "Au petit-déjeuner, vous savourerez des produits locaux et de saison dans des contenants réutilisables ou compostables, zéro plastique à usage unique.",
+      "Parce que chaque petit geste compte pour préserver la beauté de notre planète."
+    ],
+    "cleaned_answer": "Nous sommes ravis de vous répondre. Ah, voilà une question qui nous tient à cœur ! Notre forfait « Vélo-route Verte » (code ECO-VERT) incarne notre engagement envers la durabilité. Ce forfait comprend l'utilisation exclusive de produits de nettoyage écologiques, des draps en fibres naturelles, et une gestion responsable du linge (changement des serviettes uniquement sur demande). Nos chambres sont équipées d'ampoules à faible consommation et de systèmes de climatisation écoénergétiques."
+  },
+  {
+    "id": "Q20",
+    "question": "Quel type de café servez-vous au Bistro ?",
+    "answer_raw": "Notre café est une célébration quotidienne de l'artisanat. Au Bistro De la Promenade, nous torréfions notre propre café, une sélection de grains de première qualité transformés avec passion par nos baristas formés selon les standards internationaux. Notre café filtre maison est servi à volonté sur place pour 3, 50 $ (ajout de lait d'avoine pour 0, 75 $), tandis que notre café glacé aux fruits de la passion, une création signature, vous transporte en territoire inconnu pour 6, 50 $. Chaque tasse est une promenade sensorielle, du grain à la dernière goutte.",
+    "facts": [
+      "Notre café est une célébration quotidienne de l'artisanat.",
+      "Au Bistro De la Promenade, nous torréfions notre propre café, une sélection de grains de première qualité transformés avec passion par nos baristas formés selon les standards internationaux.",
+      "Notre café filtre maison est servi à volonté sur place pour 3, 50 $ (ajout de lait d'avoine pour 0, 75 $), tandis que notre café glacé aux fruits de la passion, une création signature, vous transporte en territoire inconnu pour 6, 50 $.",
+      "Chaque tasse est une promenade sensorielle, du grain à la dernière goutte."
+    ],
+    "cleaned_answer": "Nous sommes ravis de vous répondre. Notre café est une célébration quotidienne de l'artisanat. Au Bistro De la Promenade, nous torréfions notre propre café, une sélection de grains de première qualité transformés avec passion par nos baristas formés selon les standards internationaux. Notre café filtre maison est servi à volonté sur place pour 3, 50 $ (ajout de lait d'avoine pour 0, 75 $), tandis que notre café glacé aux fruits de la passion, une création signature, vous transporte en territoire inconnu pour 6, 50 $. Chaque tasse est une promenade sensorielle, du grain à la dernière goutte."
+  },
+  {
+    "id": "Q21",
+    "question": "Puis-je réserver une table pour un grand groupe au restaurant ?",
+    "answer_raw": "Pour les groupes de 6 personnes et plus, nous rendons la réservation obligatoire, et ce, 24 heures à l'avance, afin de vous assurer une expérience impeccable. Pour les rassemblements de 10 personnes ou plus les vendredis et samedis soirs, un dépôt de garantie de 10 $ par personne peut être demandé. À noter également : pour les tables de 8 personnes et plus, une seule facture sera émise (pas de factures séparées), et des frais de service de 15 % sont automatiquement ajoutés avant taxes. Si vous devez annuler, faites-le au moins 4 heures avant l'heure prévue pour éviter des frais. Un « No-Show » (non- présentation sans annulation) entraîne des frais de 25 $ facturés à votre chambre ou carte de crédit. Pour les groupes plus petits (1 à 5 personnes), aucune réservation n'est nécessaire pour le petit-déjeuner et le lunch, premier arrivé, premier servi ! Toutefois, nous recommandons de réserver pour le souper.",
+    "facts": [
+      "Pour les groupes de 6 personnes et plus, nous rendons la réservation obligatoire, et ce, 24 heures à l'avance, afin de vous assurer une expérience impeccable.",
+      "Pour les rassemblements de 10 personnes ou plus les vendredis et samedis soirs, un dépôt de garantie de 10 $ par personne peut être demandé.",
+      "À noter également : pour les tables de 8 personnes et plus, une seule facture sera émise (pas de factures séparées), et des frais de service de 15 % sont automatiquement ajoutés avant taxes.",
+      "Si vous devez annuler, faites-le au moins 4 heures avant l'heure prévue pour éviter des frais.",
+      "Un « No-Show » (non- présentation sans annulation) entraîne des frais de 25 $ facturés à votre chambre ou carte de crédit.",
+      "Pour les groupes plus petits (1 à 5 personnes), aucune réservation n'est nécessaire pour le petit-déjeuner et le lunch, premier arrivé, premier servi !"
+    ],
+    "cleaned_answer": "Merci pour votre question. Pour les groupes de 6 personnes et plus, nous rendons la réservation obligatoire, et ce, 24 heures à l'avance, afin de vous assurer une expérience impeccable. Pour les rassemblements de 10 personnes ou plus les vendredis et samedis soirs, un dépôt de garantie de 10 $ par personne peut être demandé. À noter également : pour les tables de 8 personnes et plus, une seule facture sera émise (pas de factures séparées), et des frais de service de 15 % sont automatiquement ajoutés avant taxes. Si vous devez annuler, faites-le au moins 4 heures avant l'heure prévue pour éviter des frais."
+  },
+  {
+    "id": "Q22",
+    "question": "Avez-vous des chambres adaptées pour les familles ?",
+    "answer_raw": "Absolument ! Nos Suites Senior et Exécutives sont particulièrement adaptées aux familles, pouvant accueillir jusqu'à 4 personnes avec un lit King et un sofa-lit, ainsi qu'une cuisinette pour plus de commodité. De plus, notre forfait « Escapade en Famille » (code FAMILLE) offre une priorité de réservation pour les chambres connectées ou à plusieurs lits, selon disponibilité. Ce forfait inclut également un guide d'activités pour tous les âges et des recommandations de restaurants familiaux à Ottawa. Lits de bébé et lits d'appoint sont disponibles sur demande lors de la réservation. Parce que les souvenirs de famille se construisent dans le confort et la joie.",
+    "facts": [
+      "Nos Suites Senior et Exécutives sont particulièrement adaptées aux familles, pouvant accueillir jusqu'à 4 personnes avec un lit King et un sofa-lit, ainsi qu'une cuisinette pour plus de commodité.",
+      "De plus, notre forfait « Escapade en Famille » (code FAMILLE) offre une priorité de réservation pour les chambres connectées ou à plusieurs lits, selon disponibilité.",
+      "Ce forfait inclut également un guide d'activités pour tous les âges et des recommandations de restaurants familiaux à Ottawa.",
+      "Lits de bébé et lits d'appoint sont disponibles sur demande lors de la réservation."
+    ],
+    "cleaned_answer": "Avec plaisir. Nos Suites Senior et Exécutives sont particulièrement adaptées aux familles, pouvant accueillir jusqu'à 4 personnes avec un lit King et un sofa-lit, ainsi qu'une cuisinette pour plus de commodité. De plus, notre forfait « Escapade en Famille » (code FAMILLE) offre une priorité de réservation pour les chambres connectées ou à plusieurs lits, selon disponibilité. Ce forfait inclut également un guide d'activités pour tous les âges et des recommandations de restaurants familiaux à Ottawa. Lits de bébé et lits d'appoint sont disponibles sur demande lors de la réservation."
+  },
+  {
+    "id": "Q23",
+    "question": "Combien coûte le service aux chambres ?",
+    "answer_raw": "Notre service aux chambres est disponible aux mêmes heures que le Bistro, une extension de notre hospitalité jusqu'à votre porte. Des frais de livraison fixes de 5 $ par commande s'appliquent, sauf pour nos Suites Exécutives où ce service vous est offert gracieusement. Le délai d'attente estimé est de 30 à 45 minutes. Après la fermeture de la cuisine, un menu de nuit (sandwichs froids et salades) est disponible via la réception jusqu'à 2h00 du matin. Si vous commandez de l'alcool, une pièce d'identité valide vous sera demandée lors de la livraison. Parce que le confort, c'est aussi savourer un repas en robe de chambre.",
+    "facts": [
+      "Notre service aux chambres est disponible aux mêmes heures que le Bistro, une extension de notre hospitalité jusqu'à votre porte.",
+      "Des frais de livraison fixes de 5 $ par commande s'appliquent, sauf pour nos Suites Exécutives où ce service vous est offert gracieusement.",
+      "Le délai d'attente estimé est de 30 à 45 minutes.",
+      "Après la fermeture de la cuisine, un menu de nuit (sandwichs froids et salades) est disponible via la réception jusqu'à 2h00 du matin.",
+      "Si vous commandez de l'alcool, une pièce d'identité valide vous sera demandée lors de la livraison.",
+      "Parce que le confort, c'est aussi savourer un repas en robe de chambre."
+    ],
+    "cleaned_answer": "Bien sûr. Notre service aux chambres est disponible aux mêmes heures que le Bistro, une extension de notre hospitalité jusqu'à votre porte. Des frais de livraison fixes de 5 $ par commande s'appliquent, sauf pour nos Suites Exécutives où ce service vous est offert gracieusement. Le délai d'attente estimé est de 30 à 45 minutes. Après la fermeture de la cuisine, un menu de nuit (sandwichs froids et salades) est disponible via la réception jusqu'à 2h00 du matin."
+  },
+  {
+    "id": "Q24",
+    "question": "L'hôtel offre-t-il des services de conciergerie ?",
+    "answer_raw": "Mais certainement ! Notre équipe de conciergerie, joignable à l'extension 500, est votre clé pour déverrouiller les trésors d'Ottawa. Réservations de restaurants, billets de spectacles, recommandations d'activités, organisation de transport, nos experts locaux sont à votre service pour transformer votre séjour en une expérience sur mesure. Ils connaissent la ville comme leur poche et la partagent avec la générosité d'un ami. N'hésitez jamais à faire appel à eux.",
+    "facts": [
+      "Notre équipe de conciergerie, joignable à l'extension 500, est votre clé pour déverrouiller les trésors d'Ottawa.",
+      "Réservations de restaurants, billets de spectacles, recommandations d'activités, organisation de transport, nos experts locaux sont à votre service pour transformer votre séjour en une expérience sur mesure.",
+      "Ils connaissent la ville comme leur poche et la partagent avec la générosité d'un ami.",
+      "N'hésitez jamais à faire appel à eux."
+    ],
+    "cleaned_answer": "Nous sommes ravis de vous répondre. Notre équipe de conciergerie, joignable à l'extension 500, est votre clé pour déverrouiller les trésors d'Ottawa. Réservations de restaurants, billets de spectacles, recommandations d'activités, organisation de transport, nos experts locaux sont à votre service pour transformer votre séjour en une expérience sur mesure. Ils connaissent la ville comme leur poche et la partagent avec la générosité d'un ami. N'hésitez jamais à faire appel à eux."
+  },
+  {
+    "id": "Q25",
+    "question": "Quelle est votre politique en cas d'objets perdus ?",
+    "answer_raw": "Les objets trouvés sont scellés dans un sac transparent, étiquetés avec soin (date, lieu, nom de l'employé qui l'a découvert), puis conservés pendant 90 jours. Les cartes de crédit sont immédiatement remises au superviseur pour une gestion sécurisée. Les denrées périssables sont malheureusement jetées le jour même. Si vous croyez avoir oublié quelque chose, contactez notre réception sans tarder, nous ferons tout notre possible pour retrouver votre bien et vous le retourner. Chaque objet raconte une histoire, et nous les traitons avec le respect qu'ils méritent.",
+    "facts": [
+      "Les objets trouvés sont scellés dans un sac transparent, étiquetés avec soin (date, lieu, nom de l'employé qui l'a découvert), puis conservés pendant 90 jours.",
+      "Les cartes de crédit sont immédiatement remises au superviseur pour une gestion sécurisée.",
+      "Les denrées périssables sont malheureusement jetées le jour même.",
+      "Si vous croyez avoir oublié quelque chose, contactez notre réception sans tarder, nous ferons tout notre possible pour retrouver votre bien et vous le retourner.",
+      "Chaque objet raconte une histoire, et nous les traitons avec le respect qu'ils méritent."
+    ],
+    "cleaned_answer": "Merci pour votre question. Les objets trouvés sont scellés dans un sac transparent, étiquetés avec soin (date, lieu, nom de l'employé qui l'a découvert), puis conservés pendant 90 jours. Les cartes de crédit sont immédiatement remises au superviseur pour une gestion sécurisée. Les denrées périssables sont malheureusement jetées le jour même. Si vous croyez avoir oublié quelque chose, contactez notre réception sans tarder, nous ferons tout notre possible pour retrouver votre bien et vous le retourner."
+  },
+  {
+    "id": "Q26",
+    "question": "Puis-je organiser un mariage ou un événement privé à l'hôtel ?",
+    "answer_raw": "Mais quelle merveilleuse idée ! Notre Salle Poirier, avec sa capacité allant jusqu'à 200 personnes, se prête magnifiquement aux banquets, mariages et célébrations. Notre équipe Congrès & Événements travaillera avec vous pour créer un contrat sur mesure précisant les nombres d'invités, les menus, l'équipement audiovisuel, les assurances et les politiques d'annulation. Nous proposons des menus de groupe avec 2 à 3 options d'entrées, plats et desserts, incluant des alternatives végétariennes et sans allergènes. L'organisateur est responsable des permis nécessaires (alcool, musique) et peut devoir fournir une attestation d'assurance. Pour les privatisations du Bistro, des frais de service de 18 % et des frais d'administration de 2 % s'appliquent. Chaque détail compte, et nous sommes là pour que votre journée soit inoubliable.",
+    "facts": [
+      "Notre Salle Poirier, avec sa capacité allant jusqu'à 200 personnes, se prête magnifiquement aux banquets, mariages et célébrations.",
+      "Notre équipe Congrès & Événements travaillera avec vous pour créer un contrat sur mesure précisant les nombres d'invités, les menus, l'équipement audiovisuel, les assurances et les politiques d'annulation.",
+      "Nous proposons des menus de groupe avec 2 à 3 options d'entrées, plats et desserts, incluant des alternatives végétariennes et sans allergènes.",
+      "L'organisateur est responsable des permis nécessaires (alcool, musique) et peut devoir fournir une attestation d'assurance.",
+      "Pour les privatisations du Bistro, des frais de service de 18 % et des frais d'administration de 2 % s'appliquent.",
+      "Chaque détail compte, et nous sommes là pour que votre journée soit inoubliable."
+    ],
+    "cleaned_answer": "Avec plaisir. Notre Salle Poirier, avec sa capacité allant jusqu'à 200 personnes, se prête magnifiquement aux banquets, mariages et célébrations. Notre équipe Congrès & Événements travaillera avec vous pour créer un contrat sur mesure précisant les nombres d'invités, les menus, l'équipement audiovisuel, les assurances et les politiques d'annulation. Nous proposons des menus de groupe avec 2 à 3 options d'entrées, plats et desserts, incluant des alternatives végétariennes et sans allergènes. L'organisateur est responsable des permis nécessaires (alcool, musique) et peut devoir fournir une attestation d'assurance."
+  },
+  {
+    "id": "Q27",
+    "question": "Avez-vous des bornes de recharge pour véhicules électriques ?",
+    "answer_raw": "Oui, et gratuitement ! Nos bornes de recharge pour véhicules électriques sont installées aux niveaux P1 et P2 de notre stationnement souterrain. Elles sont offertes sans frais à nos clients, selon la disponibilité. Un petit geste pour votre budget, un grand geste pour l'environnement. C'est notre façon de dire merci à ceux qui choisissent une mobilité plus verte.",
+    "facts": [
+      "Oui, et gratuitement !",
+      "Nos bornes de recharge pour véhicules électriques sont installées aux niveaux P1 et P2 de notre stationnement souterrain.",
+      "Elles sont offertes sans frais à nos clients, selon la disponibilité.",
+      "Un petit geste pour votre budget, un grand geste pour l'environnement.",
+      "C'est notre façon de dire merci à ceux qui choisissent une mobilité plus verte."
+    ],
+    "cleaned_answer": "Bien sûr. Oui, et gratuitement ! Nos bornes de recharge pour véhicules électriques sont installées aux niveaux P1 et P2 de notre stationnement souterrain. Elles sont offertes sans frais à nos clients, selon la disponibilité. Un petit geste pour votre budget, un grand geste pour l'environnement."
+  },
+  {
+    "id": "Q28",
+    "question": "Offrez-vous un service de location ou de prêt de vélos ?",
+    "answer_raw": "Absolument ! Notre service de prêt et location de vélos est disponible de 8h00 à 18h00, sur réservation. C'est l'occasion parfaite de découvrir Ottawa à votre rythme, en longeant le canal Rideau ou en explorant les quartiers charmants de la capitale. Les clients du forfait « Vélo-route Verte » bénéficient d'un accès prioritaire. Parce qu'une promenade à vélo, c'est une promenade de liberté.",
+    "facts": [
+      "Notre service de prêt et location de vélos est disponible de 8h00 à 18h00, sur réservation.",
+      "C'est l'occasion parfaite de découvrir Ottawa à votre rythme, en longeant le canal Rideau ou en explorant les quartiers charmants de la capitale.",
+      "Parce qu'une promenade à vélo, c'est une promenade de liberté."
+    ],
+    "cleaned_answer": "Nous sommes ravis de vous répondre. Notre service de prêt et location de vélos est disponible de 8h00 à 18h00, sur réservation. C'est l'occasion parfaite de découvrir Ottawa à votre rythme, en longeant le canal Rideau ou en explorant les quartiers charmants de la capitale. Parce qu'une promenade à vélo, c'est une promenade de liberté."
+  },
+  {
+    "id": "Q29",
+    "question": "Comment puis-je signaler un problème dans ma chambre ?",
+    "answer_raw": "Pour tout problème, fuite, panne, souci technique, notre système de ticketing interne assure une intervention rapide. En cas d'urgence (fuite importante, panne électrique), notre équipe de maintenance intervient 24h/7j. Composez simplement l'extension 410 depuis votre chambre, ou contactez la réception au 0. Nous traitons chaque problème avec sérieux et célérité, car votre confort est notre mission première.",
+    "facts": [
+      "Pour tout problème, fuite, panne, souci technique, notre système de ticketing interne assure une intervention rapide.",
+      "En cas d'urgence (fuite importante, panne électrique), notre équipe de maintenance intervient 24h/7j.",
+      "Composez simplement l'extension 410 depuis votre chambre, ou contactez la réception au 0.",
+      "Nous traitons chaque problème avec sérieux et célérité, car votre confort est notre mission première."
+    ],
+    "cleaned_answer": "Merci pour votre question. Pour tout problème, fuite, panne, souci technique, notre système de ticketing interne assure une intervention rapide. En cas d'urgence (fuite importante, panne électrique), notre équipe de maintenance intervient 24h/7j. Composez simplement l'extension 410 depuis votre chambre, ou contactez la réception au 0. Nous traitons chaque problème avec sérieux et célérité, car votre confort est notre mission première."
+  },
+  {
+    "id": "Q30",
+    "question": "L'hôtel est-il accessible aux personnes à mobilité réduite ?",
+    "answer_raw": "L'Hôtel De la Promenade s'engage envers l'inclusion et le respect de tous. Nous vous invitons à contacter notre réception au +1 (613) 123-4567 ou par courriel à info@delapromenade.ca pour discuter de vos besoins spécifiques en matière d'accessibilité. Notre équipe se fera un plaisir de vous fournir toutes les informations nécessaires et de préparer votre séjour en conséquence. Parce que chaque visiteur mérite un séjour sans barrières.",
+    "facts": [
+      "L'Hôtel De la Promenade s'engage envers l'inclusion et le respect de tous.",
+      "Nous vous invitons à contacter notre réception au +1 (613) 123-4567 ou par courriel à info@delapromenade.ca pour discuter de vos besoins spécifiques en matière d'accessibilité.",
+      "Parce que chaque visiteur mérite un séjour sans barrières."
+    ],
+    "cleaned_answer": "Merci pour votre question. L'Hôtel De la Promenade s'engage envers l'inclusion et le respect de tous. Nous vous invitons à contacter notre réception au +1 (613) 123-4567 ou par courriel à info@delapromenade.ca pour discuter de vos besoins spécifiques en matière d'accessibilité. Parce que chaque visiteur mérite un séjour sans barrières."
+  }
+]
